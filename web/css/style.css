@@ -1,0 +1,77 @@
+body, html {
+  height: 100%;
+}
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+aside {
+  border-right: 1px solid #CCC;
+}
+
+article {
+  margin-top: 40px;
+}
+
+article {
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #333;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+body > .row, body > .row > section, body > .row > aside {
+  height: 100%;
+}
+
+body > .row > aside, body > .row > section {
+  padding-top: 30px;
+}
+
+aside .logo {
+  background-image: url(../svg/logo.svg);
+  -webkit-background-size: 13.125em 16.688em;
+  -moz-background-size: 13.125em 16.688em;
+  -o-background-size: 13.125em 16.688em;
+  background-size: 13.125em 16.688em;
+  background-repeat: no-repeat;
+
+  width: 210px;
+  height: 267px;
+}
+
+aside .twitter, aside .github {
+  -webkit-background-size: 3em 3em;
+  -moz-background-size: 3em 3em;
+  -o-background-size: 3em 3em;
+  background-size: 3em 3em;
+  background-repeat: no-repeat;
+
+  width: 48px;
+  height: 48px;
+
+  float: left;
+}
+
+aside .twitter {
+  background-image: url(../svg/twitter.svg);
+}
+
+aside .github {
+  background-image: url(../svg/github.svg);
+}
+
+.strong {
+  font-weight: bold;
+}

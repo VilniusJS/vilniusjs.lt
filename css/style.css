@@ -51,7 +51,7 @@ aside .logo {
   height: 267px;
 }
 
-aside .twitter, aside .github {
+.twitter, .github {
   -webkit-background-size: 3em 3em;
   -moz-background-size: 3em 3em;
   -o-background-size: 3em 3em;
@@ -64,11 +64,11 @@ aside .twitter, aside .github {
   float: left;
 }
 
-aside .twitter {
+.twitter {
   background-image: url(../svg/twitter.svg);
 }
 
-aside .github {
+.github {
   background-image: url(../svg/github.svg);
 }
 

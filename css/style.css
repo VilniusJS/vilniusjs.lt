@@ -95,3 +95,32 @@ aside .logo {
 .red {
   background-color: #9E0A1C;
 }
+
+.sponsor {
+  width: 100px;
+  height: 100px;
+  -webkit-background-size: 100px 100px;
+  -moz-background-size: 100px 100px;
+  -o-background-size: 100px 100px;
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+
+  float: left;
+  margin-right: 50px;
+}
+
+.hub {
+  background-image: url(../img/hub.png);
+  width: 70px;
+  height: 41px;
+  float: left;
+  margin-top: 30px;
+}
+
+.manodrabuziai {
+  background-image: url(../svg/md.svg);
+}
+
+.adform {
+  background-image: url(../svg/adform.svg);
+}

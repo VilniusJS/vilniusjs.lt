@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="Ww5EGqxWsg1rplOop-KLuJ9W0dAHScavl4JQga2FMEo" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,600' rel='stylesheet' type='text/css'>
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:image" content="svg/logo.svg" />
+    <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+  </head>
+
+  <body>
+    <div class="row">
+      <aside class="three columns">
+        <div class="logo">
+        </div>
+
+        <a class="github" href="http://github.com/vilniusjs"></a>
+        <a class="twitter" href="http://twitter.com/vilniusjs"></a>
+      </aside>
+      <section class="nine columns">
+        {% if page.title %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>

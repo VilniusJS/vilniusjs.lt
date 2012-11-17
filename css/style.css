@@ -99,11 +99,12 @@ aside .logo {
 .sponsor {
   width: 100px;
   height: 100px;
-  -webkit-background-size: 100px 100px;
-  -moz-background-size: 100px 100px;
-  -o-background-size: 100px 100px;
-  background-size: 100px 100px;
+  -webkit-background-size: 100px;
+  -moz-background-size: 100px;
+  -o-background-size: 100px;
+  background-size: 100px;
   background-repeat: no-repeat;
+  background-position:  0% 50%;
 
   float: left;
   margin-right: 50px;

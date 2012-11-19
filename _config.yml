@@ -1,0 +1,6 @@
+exclude:
+    - .gitignore
+    - Makefile
+    - README.md
+
+title:  Vilnius JS - let's talk about JavaScript.

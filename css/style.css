@@ -51,7 +51,7 @@ aside .logo {
   height: 267px;
 }
 
-.twitter, .github {
+.twitter, .github, .email {
   -webkit-background-size: 3em 3em;
   -moz-background-size: 3em 3em;
   -o-background-size: 3em 3em;
@@ -70,6 +70,10 @@ aside .logo {
 
 .github {
   background-image: url(../svg/github.svg);
+}
+
+.email {
+  background-image: url(../svg/email.svg);
 }
 
 .strong {

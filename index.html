@@ -1,32 +1,7 @@
 ---
-layout: master
-title:  Vilnius JavaScript User Group
+layout: default
+title: Vilnius JavaScript User Group
 ---
-<p>
-  Let's meet every month to talk about JavaScript! Client-side, server-side, any side! VilniusJS is a meetup on 3rd Tuesday each month to share the knowledge about the newest technologies, best practices, the greatest patterns and everything that is united by JavaScript.
-</p>
 
-<article>
-  {% assign post = site.posts.first %}
-  {{ post.content }}
-
-  <h3>Sponsors</h3>
-  <div class="row">
-    <div class="ten columns">
-      <a href="http://adform.com/">
-        <div class="sponsor adform">
-        </div>
-      </a>
-
-      <a href="http://manodrabuziai.lt/">
-        <div class="sponsor manodrabuziai">
-        </div>
-      </a>
-
-      <a href="http://hubvilnius.lt">
-        <div class="hub">
-        </div>
-      </a>
-    </div>
-  </div>
-</article>
+{% assign post = site.posts.first %}
+{{ post.content }}

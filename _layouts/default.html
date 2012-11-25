@@ -21,10 +21,17 @@
         {% if page.title %}
         <h1>{{ page.title }}</h1>
         {% endif %}
-        {{ content }}
+
+        <p>
+          Let's meet every month to talk about JavaScript! Client-side, server-side, any side! VilniusJS is a meetup on 3rd Tuesday each month to share the knowledge about the newest technologies, best practices, the greatest patterns and everything that is united by JavaScript.
+        </p>
+
+        <article>
+          {{ content }}
+        </article>
       </section>
     </div>
 
-  {% include gauges.html %}
+    {% include gauges.html %}
   </body>
 </html>

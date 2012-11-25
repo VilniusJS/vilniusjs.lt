@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ site.title }}</title>
     <meta charset="utf-8">
+    <title>{{ site.title }}</title>
     <meta name="google-site-verification" content="Ww5EGqxWsg1rplOop-KLuJ9W0dAHScavl4JQga2FMEo" />
+    <meta name="description" content="Vilnius JS - let's talk about JavaScript.">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,600' rel='stylesheet' type='text/css'>
-    <meta property="og:title" content="{{ site.title }}" />
-    <meta property="og:image" content="svg/logo.svg" />
     <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
   </head>
@@ -14,9 +13,7 @@
   <body>
     <div class="row">
       <aside class="three columns">
-        <div class="logo">
-        </div>
-
+        <div class="logo"></div>
         <a class="github" href="http://github.com/vilniusjs"></a>
         <a class="twitter" href="http://twitter.com/vilniusjs"></a>
       </aside>
@@ -27,5 +24,7 @@
         {{ content }}
       </section>
     </div>
+
+  {% include gauges.html %}
   </body>
 </html>

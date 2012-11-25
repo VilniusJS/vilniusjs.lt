@@ -5,9 +5,9 @@
     <title>{{ site.title }}</title>
     <meta name="google-site-verification" content="Ww5EGqxWsg1rplOop-KLuJ9W0dAHScavl4JQga2FMEo" />
     <meta name="description" content="Vilnius JS - let's talk about JavaScript.">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="css/foundation.min.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,600' rel='stylesheet' type='/text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/foundation.min.css" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
   </head>
 
   <body>
@@ -28,6 +28,21 @@
 
         <article>
           {{ content }}
+
+          <div>
+            <div class="clear">&nbsp;</div>
+            <div class="left">
+            {% if page.previous.url %}
+              <a href="{{page.previous.url}}" title="Previous Meetup">&laquo; {{page.previous.title}}</a>
+            {% endif %}
+            </div>
+
+            <div class="right">
+            {% if page.next.url %}
+              <a href="{{page.next.url}}" title="Next Meetup">{{page.next.title}} &raquo;</a>
+            {% endif %}
+            </div>
+          </div>
         </article>
       </section>
     </div>

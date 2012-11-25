@@ -5,3 +5,13 @@ title: Vilnius JavaScript User Group
 
 {% assign post = site.posts.first %}
 {{ post.content }}
+
+<div>
+  <div class="clear">&nbsp;</div>
+  <div class="left">
+  {% if site.posts[1].url %}
+    <a href="{{site.posts[1].url}}" title="Previous Meetup">&laquo; {{site.posts[1].title}}</a>
+  {% endif %}
+  </div>
+
+</div>

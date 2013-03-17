@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>vilniusjs.lt</title>
+  <title>VilniusJS</title>
   <link href="http://vilniusjs.lt/"/>
   <link type="application/atom+xml" rel="self" href="http://vilniusjs.lt/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -22,7 +22,6 @@ layout: nil
     <author>
       <uri>http://vilniusjs.lt/</uri>
     </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
 

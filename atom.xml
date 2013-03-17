@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>VilniusJS</title>
+ <link href="http://vilniusjs.lt/atom.html" rel="self"/>
+ <link href="http://vilniusjs.lt"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://vilniusjs.lt/</id>
+ <author>
+   <email>usergroup@vilniusjs.lt</email>
+ </author>
+
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://vilniusjs.lt{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://vilniusjs.lt{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <uri>http://vilniusjs.lt/</uri>
+   </author>
+ </entry>
+ {% endfor %}
+
+</feed>

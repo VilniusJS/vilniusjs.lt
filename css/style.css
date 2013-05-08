@@ -135,5 +135,13 @@ aside .logo {
 }
 
 .nearform {
-  background-image: url(../svg/nearform.svg);
+  background-image: url(../img/nearform.gif);
+  height: 41px;
+  margin-top: 30px;
+}
+
+.visma {
+  background-image: url(../img/visma.png);
+  height: 41px;
+  margin-top: 30px;
 }

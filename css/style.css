@@ -126,8 +126,10 @@ aside .logo {
   margin-top: 30px;
 }
 
-.manodrabuziai {
-  background-image: url(../svg/md.svg);
+.vinted {
+  background-image: url(../img/vinted.png);
+  height: 41px;
+  margin-top: 30px;
 }
 
 .adform {

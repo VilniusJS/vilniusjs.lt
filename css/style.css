@@ -132,6 +132,12 @@ aside .logo {
   margin-top: 30px;
 }
 
+.insidewarehouse {
+  background-image: url(../img/insidewarehouse.png);
+  height: 41px;
+  margin-top: 30px;
+}
+
 .adform {
   background-image: url(../svg/adform.svg);
 }

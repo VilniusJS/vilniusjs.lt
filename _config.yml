@@ -3,4 +3,5 @@ exclude:
     - Makefile
     - README.md
 
+markdown: kramdown
 title:  Vilnius JavaScript User Group

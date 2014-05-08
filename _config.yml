@@ -5,3 +5,7 @@ exclude:
 
 markdown: kramdown
 title:  Vilnius JavaScript User Group
+
+
+gems:
+  - jekyll-sitemap

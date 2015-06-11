@@ -118,6 +118,20 @@ aside .logo {
   margin-right: 50px;
 }
 
+/*
+.SPONSOR {
+  background-image: url(../img/FILENAME);
+  height: HEIGHT;
+  margin-top: (110-HEIGHT)/2;
+}
+*/
+
+.alongapp {
+  background-image: url(../img/alongapp.png);
+  height: 75px;
+  margin-top: 17px;
+}
+
 .hub {
   background-image: url(../img/hub.png);
   width: 70px;
@@ -128,14 +142,14 @@ aside .logo {
 
 .vinted {
   background-image: url(../img/vinted.png);
-  height: 41px;
-  margin-top: 30px;
+  height: 36px;
+  margin-top: 37px;
 }
 
 .insidewarehouse {
   background-image: url(../img/insidewarehouse.png);
-  height: 41px;
-  margin-top: 30px;
+  height: 35px;
+  margin-top: 37px;
 }
 
 .adform {
@@ -160,6 +174,6 @@ aside .logo {
 
 .wix {
   background-image: url(../img/wix.jpg);
-  height: 41px;
-  margin-top: 30px;
+  height: 28px;
+  margin-top: 41px;
 }

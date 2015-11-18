@@ -154,6 +154,8 @@ aside .logo {
 
 .adform {
   background-image: url(../svg/adform.svg);
+  height: 96px;
+  margin-top: 7px;
 }
 
 .estina {

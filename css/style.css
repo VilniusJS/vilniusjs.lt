@@ -126,6 +126,12 @@ aside .logo {
 }
 */
 
+.plateculture {
+  background-image: url(../img/plateculture.png);
+  height: 91px;
+  margin-top: 10px;
+}
+
 .alongapp {
   background-image: url(../img/alongapp.png);
   height: 75px;

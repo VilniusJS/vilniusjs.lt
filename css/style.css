@@ -191,3 +191,15 @@ aside .logo {
   height: 28px;
   margin-top: 41px;
 }
+
+.buildstuff {
+  background-image: url(../img/buildstuff.png);
+  height: 72px;
+  margin-top: 0px;
+}
+
+.lifemichael {
+  background-image: url(../img/lifemichael.png);
+  height: 61px;
+  margin-top: 28px;
+}

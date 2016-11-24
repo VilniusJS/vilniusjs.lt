@@ -203,3 +203,21 @@ aside .logo {
   height: 61px;
   margin-top: 28px;
 }
+
+.trafi {
+  background-image: url(../img/trafi.png);
+  height: 130px;
+  margin-top: 0px;
+}
+
+.wisemonks {
+  background-image: url(../img/wisemonks.png);
+  height: 70px;
+  margin-top: 19px;
+}
+
+.zenitech {
+  background-image: url(../img/zenitech.png);
+  height: 61px;
+  margin-top: 28px;
+}

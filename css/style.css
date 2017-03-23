@@ -180,6 +180,18 @@ aside .logo {
   margin-top: 30px;
 }
 
+.mobilelife {
+  background-image: url(../img/mobilelife.jpg);
+  height: 20px;
+  margin-top: 41px;
+}
+
+.tesonet {
+  background-image: url(../img/tesonet.jpg);
+  height: 37px;
+  margin-top: 37px;
+}
+
 .wix {
   background-image: url(../img/wix.jpg);
   height: 28px;

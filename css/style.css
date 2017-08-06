@@ -239,3 +239,9 @@ aside .logo {
   height: 51px;
   margin-top: 28px;
 }
+
+.reactiveconf {
+  background-image: url(../img/reactiveconf.png);
+  height: 27px;
+  margin-top: 45px;
+}

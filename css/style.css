@@ -158,6 +158,12 @@ aside .logo {
   margin-top: 37px;
 }
 
+.ugnis {
+  background-image: url(../img/ugnis.png);
+  height: 90px;
+  margin-top: 10px;
+}
+
 .adform {
   background-image: url(../svg/adform.svg);
   height: 26px;

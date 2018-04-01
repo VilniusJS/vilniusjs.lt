@@ -8,5 +8,5 @@ markdown: kramdown
 title:  Vilnius JavaScript User Group
 
 
-gems:
+plugins:
   - jekyll-sitemap

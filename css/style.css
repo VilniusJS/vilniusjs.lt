@@ -251,3 +251,9 @@ aside .logo {
   height: 27px;
   margin-top: 45px;
 }
+
+.danske {
+  background-image: url(../img/danske.svg);
+  height: 20px;
+  margin-top: 45px;
+}

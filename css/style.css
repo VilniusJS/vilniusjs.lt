@@ -198,6 +198,12 @@ aside .logo {
   margin-top: 37px;
 }
 
+.hostmaker {
+  background-image: url(../img/hostmaker.svg);
+  height: 28px;
+  margin-top: 41px;
+}
+
 .wix {
   background-image: url(../img/wix.jpg);
   height: 28px;

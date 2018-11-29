@@ -198,6 +198,12 @@ aside .logo {
   margin-top: 37px;
 }
 
+.honestive {
+  background-image: url(../img/honestive.png);
+  height: 40px;
+  margin-top: 37px;
+}
+
 .hostmaker {
   background-image: url(../img/hostmaker.svg);
   height: 28px;

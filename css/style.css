@@ -193,7 +193,13 @@ aside .logo {
 }
 
 .tesonet {
-  background-image: url(../img/tesonet.jpg);
+  background-image: url(../img/tesonet.png);
+  height: 37px;
+  margin-top: 37px;
+}
+
+.oberlo {
+  background-image: url(../img/oberlo.png);
   height: 37px;
   margin-top: 37px;
 }

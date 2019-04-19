@@ -10,7 +10,6 @@
   redirect();
 })({
   redirects: {
-    '#newsletter': '/newsletter.html',
     '#email': 'mailto:usergroup@vilniusjs.lt'
   }
 });

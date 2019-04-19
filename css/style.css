@@ -204,6 +204,12 @@ aside .logo {
   margin-top: 37px;
 }
 
+.unifysquare {
+  background-image: url(../img/unify_square.png);
+  height: 37px;
+  margin-top: 37px;
+}
+
 .honestive {
   background-image: url(../img/honestive.png);
   height: 40px;

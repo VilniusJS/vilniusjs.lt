@@ -10,7 +10,7 @@
   redirect();
 })({
   redirects: {
-    '#newsletter': 'http://us16.campaign-archive1.com/home/?u=e28fb96898cdc44a1454748d7&id=7bdc1913da',
+    '#newsletter': '/newsletter.html',
     '#email': 'mailto:usergroup@vilniusjs.lt'
   }
 });

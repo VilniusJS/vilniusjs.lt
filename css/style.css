@@ -242,6 +242,12 @@ aside .logo {
   margin-top: 41px;
 }
 
+.frontcon {
+  background-image: url(../img/frontcon.png);
+  height: 100px;
+  margin-top: 0;
+}
+
 .nfq {
   background-image: url(../img/nfq.png);
   height: 28px;

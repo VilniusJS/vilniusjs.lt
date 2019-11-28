@@ -284,6 +284,12 @@ aside .logo {
   margin-top: 28px;
 }
 
+.vieta {
+  background-image: url(../img/vieta.png);
+  height: 47px;
+  margin-top: 28px;
+}
+
 .inventi {
   background-image: url(../img/inventi.png);
   height: 51px;

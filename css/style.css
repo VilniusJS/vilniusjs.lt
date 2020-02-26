@@ -284,6 +284,12 @@ aside .logo {
   margin-top: 28px;
 }
 
+.revolut {
+  background-image: url(../img/revolut.png);
+  height: 47px;
+  margin-top: 28px;
+}
+
 .vieta {
   background-image: url(../img/vieta.png);
   height: 47px;

@@ -240,6 +240,12 @@ aside .logo {
   margin-top: 41px;
 }
 
+.cct {
+  background-image: url(../img/cct.png);
+  height: 100px;
+  margin-top: 0;
+}
+
 .wix {
   background-image: url(../img/wix.jpg);
   height: 28px;

@@ -20,6 +20,11 @@
     <link rel="alternate" type="application/rss+xml" href="//feeds.feedburner.com/VilniusJS">
     <link rel="stylesheet" type="text/css" href="/css/foundation.min.css" />
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    {% if page.image %}
+    <meta content="{{ site.url }}{{ page.image.path }}" property="og:image">
+    <meta property="og:image:width" content="{{ page.image.width }}"/>
+    <meta property="og:image:height" content="{{ page.image.height }}"/>
+    {% endif %}
     {% seo %}
   </head>
 

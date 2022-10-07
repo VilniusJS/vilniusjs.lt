@@ -1,0 +1,49 @@
+---
+layout: default
+title: ___Name___
+description: "___Talk title___"
+image:
+  path: /img/___Cover image filename___
+  width: 1200
+  height: 630
+---
+<div class="row">
+  <div class="two columns">When</div>
+  <div class="ten columns strong">___Date___</div>
+</div>
+<div class="row">
+  <div class="two columns">Where</div>
+  <div class="ten columns strong">
+    ___Venue name___<br />
+    ___Venue address___
+  </div>
+</div>
+<div class="row">
+  <div class="two columns">Read more</div>
+  <div class="ten columns strong"><a href="___meetup.com___">Meetup event</a></div>
+</div>
+
+
+<h3>Speakers</h3>
+<div class="row">
+  <div class="six columns">
+    <div class="three columns">
+      <div class="gravatar">
+        <a href="___Talk author link___">
+          <img src="/img/___Talk author name___.png" alt="___Talk author name___" />
+        </a>
+      </div>
+    </div>
+    <div class="nine columns">
+      <strong><a href="___Talk author link___">___Talk author name___</a></strong>
+      <div><a href="___meetup.com___">___Talk title___</a></div>
+    </div>
+  </div>
+</div>
+
+<h3>Sponsors</h3>
+<div class="row">
+  <div class="columns">
+    {% include ___Sponsor id___.html %}
+  </div>
+</div>

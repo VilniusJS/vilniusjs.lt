@@ -1,6 +1,7 @@
 encoding: "utf-8"
 exclude:
     - .gitignore
+    - src
     - Makefile
     - README.md
 

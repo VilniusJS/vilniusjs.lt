@@ -1,0 +1,36 @@
+___Intro___
+
+
+✅ Agenda
+
+
+- 18:30 - 19:00 Gathering, mingling, drinks and snacks
+- 19:00 - 19:45 Reverse Enforced Test Driven Development: Making e2e Tests Easy
+- 19:45 - 20:00 Q&A and discussion
+- 20:00 - 22:00 Hangout
+
+
+📣 Reverse Enforced Test Driven Development: Making e2e Tests Easy
+
+
+Setting up test tools and understanding what has to be tested sometimes is quite an issue that does not encourage implementing tests on one's application, especially for the junior devs. Yet, maintaining and continuously encouraging the team not to forget the tests is sometimes a headache for senior devs.
+
+I'll show you how to easily set up e2e test tools for both: the frontend and backend, then how to quickly understand what has to be tested. Most importantly, I'll show you how to create an automated test requirement watchdog that would not allow application further evolution by you or your team without taking care of the tests.
+
+
+👨💻 Bio: Vilius Roškus
+
+
+The more seniority I gain in software development, the more I do believe that software development can be very simple and easy :) So just trying to continue living in my low complexity, strictly linted and fully covered by tests world. Currently, I am a senior full-stack developer at DanskeBank.
+
+I do have a Yachtmaster Ocean Certificate of Competence and can sail any yacht up to 80 feet in length without limitations all over the oceans. Fun fact: I do own only a 25 feet boat and usually sail in a lake.
+
+
+More at: https://www.linkedin.com/in/vroskus/
+
+
+🦸‍♀️️🦸‍♂️️ Participating and contributing to Vilnius.js community
+
+
+Join the Vilnius.js Discord server https://discord.gg/dXWSZGHCsg
+Email usergroup@vilniusjs.lt

@@ -22,8 +22,8 @@ const readMeetups = () =>
 const replace = (template, key, value) => template.split(`___${key}___`).join(value)
 const replaceAll = (template, replacements) => Object.entries(replacements).reduce((template, [key, value]) => replace(template, key, value), template)
 
-const meetupTemplate = readFileSync('template.meetup.txt').toString()
-const htmlTemplate = readFileSync('template.html.txt').toString()
+const meetupTemplate = readFileSync(`${__dirname}/template.meetup.txt`).toString()
+const htmlTemplate = readFileSync(`${__dirname}/template.html.txt`).toString()
 readMeetups().forEach(({ page, replacements }) => {
   console.log(`writing ${page}`)
   writeFileSync(`${__dirname}/../_posts/${page}.html`, replaceAll(htmlTemplate, replacements))

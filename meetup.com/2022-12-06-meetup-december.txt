@@ -1,0 +1,35 @@
+___Intro___
+
+
+✅ Agenda
+
+
+- 18:30 - 19:00 Gathering, mingling, drinks and snacks
+- 19:00 - 19:45 PWA: Is It Dead Already?
+- 19:45 - 20:00 Q&A and discussion
+- 20:00 - 22:00 Hangout
+
+
+📣 PWA: Is It Dead Already?
+
+
+Recently I stumbled upon a pretty old topic in the web development industry - progressive web applications. Let’s be real - it’s been out for 7 years now. I have always wondered. Do PWAs have their place under the sun? Is the technology dead? Who is using it? And why? Oh boy, I did not expect to find what I found…
+
+
+👨💻 Bio: Nedas Šimkus
+
+
+Front-end Developer @ Wix. Been working as a front-end developer for around 5 years now. Favorite principle in life - KISS.
+
+Linkedin - https://www.linkedin.com/in/frontned/
+Github - https://github.com/frontned
+
+
+More at: https://github.com/frontned
+
+
+🦸‍♀️️🦸‍♂️️ Participating and contributing to Vilnius.js community
+
+
+Join the Vilnius.js Discord server https://discord.gg/dXWSZGHCsg
+Email usergroup@vilniusjs.lt

@@ -1,13 +1,12 @@
-___Intro___
+It’s a new year! So let’s gather around Rokas Muningis to hear about the latest hype topics in front-end development - Progressively Enhanced Multi-Page Apps (PESPA) and Edge Computing.
 
 
 ✅ Agenda
 
 
 - 18:30 - 19:00 Gathering, mingling, drinks and snacks
-- 19:00 - 19:45 PESPA on the Edge
-- 19:45 - 20:00 Q&A and discussion
-- 20:00 - 22:00 Hangout
+- 19:00 - 20:00 "PESPA on the Edge" by Rokas Muningis
+- 20:00 - 21:30 Hangout: Etmonų Špunka, Etmonų str. 3, Vilnius
 
 
 📣 PESPA on the Edge

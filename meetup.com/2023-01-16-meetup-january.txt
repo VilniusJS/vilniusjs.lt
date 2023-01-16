@@ -1,0 +1,32 @@
+___Intro___
+
+
+✅ Agenda
+
+
+- 18:30 - 19:00 Gathering, mingling, drinks and snacks
+- 19:00 - 19:45 PESPA on the Edge
+- 19:45 - 20:00 Q&A and discussion
+- 20:00 - 22:00 Hangout
+
+
+📣 PESPA on the Edge
+
+
+Two, probably most hyped keywords in Javascript ecosystem right now - PESPA and Edge. Later, enables running your code, from server closest to your client, while former enables your SPA to opt-out of client-side javascript, while having one same codebase. Lets explore how it can be achieved and why it's beneficial to you and especially your users.
+
+
+👨💻 Bio: Rokas Muningis
+
+
+Front-end Developer & Tech Lead @ Sapiens for the past half year, with total experience of ~6 years. Fan of DRY and Functional Programming Paradigm
+
+
+More at: https://github.com/RokasMuningis
+
+
+🦸‍♀️️🦸‍♂️️ Participating and contributing to Vilnius.js community
+
+
+Join the Vilnius.js Discord server https://discord.gg/dXWSZGHCsg
+Email usergroup@vilniusjs.lt

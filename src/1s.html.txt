@@ -9,7 +9,7 @@ image:
 ---
 <div class="row">
   <div class="two columns">When</div>
-  <div class="ten columns strong">___Date___</div>
+  <div class="ten columns strong">___Datetime start&finish___</div>
 </div>
 <div class="row">
   <div class="two columns">Where</div>
@@ -44,6 +44,6 @@ image:
 <h3>Sponsors</h3>
 <div class="row">
   <div class="columns">
-    {% include ___Sponsor id___.html %}
+    {% include ___Sponsor #1 id___.html %}
   </div>
 </div>

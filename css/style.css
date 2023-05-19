@@ -264,6 +264,18 @@ aside .logo {
   margin-top: 41px;
 }
 
+.remult {
+  background-image: url(../img/remult.png);
+  height: 28px;
+  margin-top: 41px;
+}
+
+.shift4 {
+  background-image: url(../img/shift4.png);
+  height: 28px;
+  margin-top: 41px;
+}
+
 .frontcon {
   background-image: url(../img/frontcon.png);
   height: 100px;

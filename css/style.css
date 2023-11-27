@@ -122,13 +122,9 @@ aside .logo {
   margin-right: 50px;
 }
 
-/*
-.SPONSOR {
-  background-image: url(../img/FILENAME);
-  height: HEIGHT;
-  margin-top: (110-HEIGHT)/2;
+.paging {
+  margin-top: 40px
 }
-*/
 
 .plateculture {
   background-image: url(../img/plateculture.png);
@@ -347,3 +343,17 @@ aside .logo {
   height: 21px;
   margin-top: 45px;
 }
+
+.accenture {
+  background-image: url(../img/accenture.png);
+  height: 27px;
+  margin-top: 42;
+}
+
+/*
+.SPONSOR {
+  background-image: url(../img/FILENAME);
+  height: HEIGHT;
+  margin-top: (110-HEIGHT)/2;
+}
+*/

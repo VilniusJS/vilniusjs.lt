@@ -344,10 +344,14 @@ aside .logo {
   margin-top: 45px;
 }
 
+.cast-ai {
+  background-image: url(../img/cast-ai.png);
+  height: 40px;
+}
+
 .accenture {
   background-image: url(../img/accenture.png);
   height: 27px;
-  margin-top: 42;
 }
 
 /*

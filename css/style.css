@@ -354,6 +354,13 @@ aside .logo {
   height: 27px;
 }
 
+.devexperts {
+  background-image: url(../img/devexperts.png);
+  background-size: 150px;
+  width: 150px;
+  margin-top: 5px;
+}
+
 /*
 .SPONSOR {
   background-image: url(../img/FILENAME);

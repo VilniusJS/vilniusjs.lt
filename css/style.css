@@ -349,6 +349,12 @@ aside .logo {
   height: 40px;
 }
 
+.zedge {
+  background-image: url(../img/zedge.png);
+  height: 27px;
+  margin-top: 45px;
+}
+
 .accenture {
   background-image: url(../img/accenture.png);
   height: 27px;

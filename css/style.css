@@ -373,6 +373,13 @@ aside .logo {
   margin-top: 5px;
 }
 
+.ovoko {
+  background-image: url(../img/ovoko.svg);
+  background-size: 150px;
+  width: 150px;
+  margin-top: 5px;
+}
+
 /*
 .SPONSOR {
   background-image: url(../img/FILENAME);
